@@ -10,7 +10,7 @@ However, this project also allows private chatrooms for users who want more priv
 ## Stack
 This is the Backend of the project, made with Express, Socket.io and MySql database, it also includes jsonwebtoken and bcrypt to secure the sessions and Register and Login with Google account.
 
-The Frontend was made with Angular 15.2, rxjs and socket.io-client. All the services for the socket.io-client were self-coded.. You need to install it to make it work.
+The Frontend was made with Angular 15.2, rxjs and socket.io-client. All the services for the socket.io-client were self-coded.. You need to install it to make it work. [Go to frontend repository](https://github.com/JulianCallejas/JChat-frontend)
 
 ## Installation
 
@@ -44,3 +44,5 @@ The Frontend was made with Angular 15.2, rxjs and socket.io-client. All the serv
     ```bash
     npm run dev
     ```
+
+7. Start frontend development mode. See [Frontend repository](https://github.com/JulianCallejas/JChat-frontend)
